@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../GeneratorTests/GeneratorTests.vcxproj" />
+  <Project Path="Sudoku-Generator-and-Solver.vcxproj" Id="8ac4b25e-eac0-4be5-8967-e08b86697d81" />
+</Solution>
