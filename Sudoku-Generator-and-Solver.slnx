@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../GeneratorTests/GeneratorTests.vcxproj" />
+  <Project Path="../Sudoku-Generator-Tests/SudokuGeneratorTests.vcxproj" Id="a01c8cda-8ded-4cbe-4dbb-b4c0bc44837d" />
   <Project Path="Sudoku-Generator-and-Solver.vcxproj" Id="8ac4b25e-eac0-4be5-8967-e08b86697d81" />
 </Solution>
